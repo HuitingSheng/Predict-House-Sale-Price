@@ -1,1 +1,4 @@
-# Predict-House-Sale-Price
+# House Sale Price Prediction
+
+When people are buying or selling a house, the biggest thing they care about is the sales price. Buyers usually have their dream house checklist including: number of bedrooms/bathrooms, house age, kitchen finishes, and the quality of the schools and surronding neighborhood. Sellers want to know what factors impact the sales price the most. An example of this is whether doing a last minute remodel or staging the house correctly can increase the value of their housel
+I got my dataset from Kaggle, it has 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The goal of this project is to build a model to predict the final house sale price of each home using Python. Additionally I wanted try to find out the features that have the biggest influcene on the final price.
