@@ -15,3 +15,5 @@ Our target variable is SalePrice. It is numerical, so regression algorithms are 
 The Overall project will including data cleaning, data preprocessing, building and validating models.
 
 The data description is in the data_descritpion.txt file
+
+
