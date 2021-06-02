@@ -16,4 +16,8 @@ The Overall project will including data cleaning, data preprocessing, building a
 
 The data description is in the data_descritpion.txt file
 
+Whole Project:
+
+https://huitingsheng.github.io/Predict-House-Sale-Price/House_Sale_Price_Prediction.html
+
 
