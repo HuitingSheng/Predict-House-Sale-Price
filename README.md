@@ -18,6 +18,6 @@ The data description is in the data_descritpion.txt file
 
 Whole Project:
 
-https://huitingsheng.github.io/Predict-House-Sale-Price/House_Sale_Price_Prediction.html
+\url{https://huitingsheng.github.io/Predict-House-Sale-Price/House_Sale_Price_Prediction.html}
 
 
